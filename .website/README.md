@@ -1,4 +1,7 @@
 ---
+genres:
+  - narrative
+  - simulation
 post: https://web.archive.org/web/20231101233927/https://www.loganfranken.com/blog/my-second-js13k
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
